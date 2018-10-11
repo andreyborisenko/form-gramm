@@ -1,0 +1,12 @@
+{
+  "name": "form-gram-la",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "printf": "^0.5.1"
+  }
+}
